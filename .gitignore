@@ -1,0 +1,6 @@
+*.ext
+*.o
+*.so
+target/
+*.toml
+*.lock
